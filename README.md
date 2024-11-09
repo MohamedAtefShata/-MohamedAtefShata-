@@ -17,7 +17,11 @@
 <br />
 <ul>
   <li>
-Competitive programmer which is top 1.7% on leetcode, an expert on codeforces with maxrate 1848(rank ~5000) and yellow coder on topcoder(rank 488), Also ACPC Finalist 2019, 2020, 2021(ACM Arab Collegiate programming contest) 
+	Driven software engineer with a strong foundation in backend development, problem-solving, and mathematics.
+	Over a year of hands-on experience in building scalable applications with Java, Spring Boot, and .NET. Seeking a
+	backend development role to further hone my expertise in system design, API development, and database
+	optimization. Passionate about developing efficient, reliable software solutions that enhance user experience and
+	meet complex business requirements. 
   </li>
   <li>
     Software engineer with exprince in web full-stack devolpment using known tech stacks like MERN and also other backend tech like springboot and .NET
@@ -29,12 +33,6 @@ Skills: OOP , OS , multithreading, Operating System, System design ,Design patte
 
 ## Skills
 
-
-<div align="center">
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-</div>
 
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
