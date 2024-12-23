@@ -17,11 +17,7 @@
 <br />
 <ul>
   <li>
-	Driven software engineer with a strong foundation in backend development, problem-solving, and mathematics.
-	Over a year of hands-on experience in building scalable applications with Java, Spring Boot, and .NET. and 
-	expertise in system design, API development, and database
-	optimization. Passionate about developing efficient, reliable software solutions that enhance user experience and
-	meet complex business requirements. 
+	Motivated software engineer with a robust foundation in backend development, honed through academic projects and practical experience in crafting scalable solutions. Skilled in problem-solving, demonstrated by achieving top rankings on 	competitive programming platforms like being Codeforces expert and being in the top 3% on LeetCode. A strong aptitude for mathematics, developed through a deep interest and extensive study during college, complements expertise in system design, API development, and database optimization. Passionate about delivering high-performance software tailored to complex business needs while prioritizing user experience.
   </li>
   <li>
 Skills: OOP , OS , multithreading, Operating System, System design ,Design patterns ,Caching, Cryptography, Database Normalization, Agile Methodology
